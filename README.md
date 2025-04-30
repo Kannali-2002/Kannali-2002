@@ -46,11 +46,6 @@ I'm a passionate data analyst who transforms raw data into actionable insights. 
 
 ### 📫 Let's Connect!
 
-- 📧 Email: your.email@example.com
-- 🔗 [LinkedIn]https://www.linkedin.com/in/kannali-p-c-eswar-778ab8240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwyVRWv4bRbeaH90kK06K7g%3D%3D
-- 🧠 [Portfolio Website](https://yourportfolio.com) *(if available)*
-
-> *“Data is a tool for empowerment, not control.”*
-
----
+- 📧 Email:kannalieswar0@gmail.com
+- 🔗 [LinkedIn]https://www.linkedin.com/in/kannali-p-c-eswar-778ab8240/
 
